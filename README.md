@@ -65,12 +65,17 @@ The following layers ensure proper separation of concerns:
 
 
 ✨ Screenshots
-
+### Option Frame
 ![Option Frame](OptionFrame.png)
+### AddEmployee Frame
 ![AddEmployee Frame](AddEmployee.png)
+### DeleteEmployee Frame
 ![DeleteEmployee Frame](DeleteEmployee.png)
+### SearchEmployee Frame
 ![SearchEmployee Frame](SearchEmployee.png)
+### ShowAllEmployee Frame
 ![ShowAllEmployee Frame](ShowAllEmployee.png)
+### UpdateEmployee Frame
 ![UpdateEmployee Frame](UpdateEmployee.png)
 
 
