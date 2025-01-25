@@ -34,11 +34,6 @@ The project follows a **three-layered architecture**:
 4. **Data Model Layer** (`empmgmt.pojo`)  
    - Holds POJO (Plain Old Java Object) or DTO (Data Transfer Object) classes for data representation.  
 
----
-
-## 📊 Architecture Diagram  
-
-![Architecture Diagram](assets/architecture-diagram.png)
 
 The following layers ensure proper separation of concerns:  
 
@@ -71,12 +66,12 @@ The following layers ensure proper separation of concerns:
 
 ✨ Screenshots
 
-![Option Frame](assets/OptionFrame.png)
-![AddEmployee Frame](assets/AddEmployee.png)
-![DeleteEmployee Frame](assets/DeleteEmployee.png)
-![SearchEmployee Frame](assets/SearchEmployee.png)
-![ShowAllEmployee Frame](assets/ShowAllEmployee.png)
-![UpdateEmployee Frame](assets/UpdateEmployee.png)
+![Option Frame](OptionFrame.png)
+![AddEmployee Frame](AddEmployee.png)
+![DeleteEmployee Frame](DeleteEmployee.png)
+![SearchEmployee Frame](SearchEmployee.png)
+![ShowAllEmployee Frame](ShowAllEmployee.png)
+![UpdateEmployee Frame](UpdateEmployee.png)
 
 
 
