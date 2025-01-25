@@ -1,6 +1,6 @@
 # 📋 Employee Management System  
 
-**MINI PROJECT**  
+
 
 The **Employee Management System** is a Java-based desktop application designed to efficiently manage employee data.  
 It provides a user-friendly interface for performing CRUD operations and adheres to a layered architecture for better scalability and maintainability.
